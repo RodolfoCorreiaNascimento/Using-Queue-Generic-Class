@@ -1,0 +1,16 @@
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\bin\Debug\net5.0\Queue.exe
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\bin\Debug\net5.0\Queue.deps.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\bin\Debug\net5.0\Queue.runtimeconfig.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\bin\Debug\net5.0\Queue.runtimeconfig.dev.json
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\bin\Debug\net5.0\Queue.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\bin\Debug\net5.0\ref\Queue.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\bin\Debug\net5.0\Queue.pdb
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.csprojAssemblyReference.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.AssemblyInfoInputs.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.AssemblyInfo.cs
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\ref\Queue.dll
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.pdb
+C:\Users\RudeB\OneDrive\Área de Trabalho\C# .Net My Douments\Queue\obj\Debug\net5.0\Queue.genruntimeconfig.cache
